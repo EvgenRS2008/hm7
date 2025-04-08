@@ -1,0 +1,10 @@
+.box{
+  display: flex;
+  flex-direction:row;
+  gap: 10px;
+}
+
+.b{
+  background-color: yellow;
+  width: 150px;
+}
